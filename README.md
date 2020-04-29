@@ -1,5 +1,5 @@
 # chitchat
-Messenger application that automatically translates to/from language of user
+Messenger application that automatically translates to/from language of user :mailbox_with_mail:
 
 **Background**
 
